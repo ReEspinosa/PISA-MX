@@ -15,7 +15,6 @@ BRR con corrección de Fay (80 pesos replicados) combinado con las reglas de Rub
 .
 ├── analisis_pisa_2025.ipynb     Notebook de Python con el análisis completo
 ├── informe_pisa_2025.pdf        Reporte en formato paper (2 columnas, 2 páginas)
-├── informe_pisa_2025.tex        Código fuente LaTeX del reporte (Overleaf)
 ├── figuras/                     Las 6 gráficas generadas por el notebook
 └── README.md
 ```
