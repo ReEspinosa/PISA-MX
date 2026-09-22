@@ -87,5 +87,5 @@ y genera las 6 gráficas en la carpeta `figuras/`.
 
 ## Autora
 
-Rebeca Espinosa Roque
+Rebeca Espinosa 
 Ciencias de la Computación, UNAM
